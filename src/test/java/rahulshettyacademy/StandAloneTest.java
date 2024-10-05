@@ -19,7 +19,7 @@ import rahulshettyacademy.pageobjects.LandingPage;
 public class StandAloneTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// new comments are added
 		String prodName = "ZARA COAT 3";
 
 		WebDriver driver = new ChromeDriver();
